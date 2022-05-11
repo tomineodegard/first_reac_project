@@ -1,0 +1,8 @@
+#App {
+    margin: 2rem;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
