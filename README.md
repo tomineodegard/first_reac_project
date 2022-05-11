@@ -1,3 +1,9 @@
+## First react project - simple to do list
+
+My first react project
+Made a classic todolist where you can add, complete, delete and undo tasks.
+LIVE DEMO: https://tomineodegard.github.io/first_react_project/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
